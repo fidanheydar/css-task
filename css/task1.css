@@ -1,0 +1,27 @@
+
+.box{
+
+    width: 130px;
+    height: 130px;
+    background-color:gray;
+    padding-left: 50px;
+    padding-top: 30px;
+    margin: auto;
+}
+.circle{
+    background-color: white;
+    border-radius: 110px;
+    border: 1px  white;
+    margin: 15px;
+}
+.nose{
+    padding-left: 35px;
+     color: white;
+}
+.mouth{
+border-radius: 60px;
+background-color: white;
+padding-left: 85px;
+padding-top: 10px;
+
+}

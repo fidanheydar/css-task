@@ -1,0 +1,36 @@
+body{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+.circle1{
+    padding:40px ;
+    border-radius: 100px;
+    margin-left: -25px;
+    border: 3px solid red;
+  
+}
+.circle2{
+    padding: 40px;
+    border-radius: 100px;
+    margin-left: -25px;
+    border: 3px solid yellow;
+}
+.circle3{
+    padding: 40px;
+    border-radius: 100px;
+    margin-left: -25px;
+    border:3px solid blue ;
+}
+.circle4{
+    padding: 40px;
+    border-radius: 100px;
+    margin-left: -25px;
+    border: 3px solid black;
+}
+.circle5{
+    padding: 40px;
+    border-radius:100px;
+    margin-left: -25px;
+    border: 3px solid green;
+}
